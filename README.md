@@ -9,7 +9,7 @@ Create a game in which actors in the world will change their state when the play
 Use C++, Blueprints or a mix of both.  What ever you are most comfortable with.
 
 ### First Steps
-Download the zipped starting project and read through the custom FT_PracticalTestHoop actor logic this should be the base for any custom hoops you create. 
+Download the zipped starting project "FT_PracticalTest.zip" and read through the custom FT_PracticalTestHoop actor logic this should be the base for any custom hoops you create. 
 
 ## Implementation
 Use as many actors as you need but you are required to create the following actors. You should be able to use as many of these actors in your scene without
