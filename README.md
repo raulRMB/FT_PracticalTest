@@ -10,7 +10,7 @@ Use C++, Blueprints or a mix of both.  What ever you are most comfortable with.
 Download the zipped starting project and read through the custom FT_PracticalTestHoop actor logic this should be the base for any custom hoops you create. 
 
 ## Implementation
-Use as many actors as you need but you are required to create the following actors.
+Use as many actors as you need but you are required to create the following actors. You should be able to put as many 
 
 ## Required Actors
 
@@ -38,3 +38,8 @@ An Actor that has a light
 
 ## Submit
 A video recording demonstrating a working demo and a commentary of your implementation choices. Please zip the Unreal project. Provide links for both the video and the project.
+
+## Example
+
+https://github.com/raulRMB/FT_PracticalTest/assets/92171903/3ac43747-1b00-40d7-9cef-6b46e99145d8
+
