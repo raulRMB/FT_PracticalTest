@@ -12,17 +12,20 @@ Use C++, Blueprints or a mix of both.  What ever you are most comfortable with.
 Download the zipped starting project and read through the custom FT_PracticalTestHoop actor logic this should be the base for any custom hoops you create. 
 
 ## Implementation
-Use as many actors as you need but you are required to create the following actors. You should be able to put as many 
+Use as many actors as you need but you are required to create the following actors. You should be able to use as many of these actors in your scene without
+much setup.
 
 ## Required Actors
 
 ### Broadcasters
+These should inherit from the AFT_PracticalTestHoop class
 #### Hoops
  - Blue: 1 point
  - Green: 2 points
  - Red: 3 points
 
 ### Listeners
+These should inherit from the AActor class 
 #### Score Text
 An actor that renders text
  - Changes text to "Score; %Score%" when score increases
